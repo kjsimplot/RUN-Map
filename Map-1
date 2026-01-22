@@ -99,8 +99,8 @@ const hospitals = [
     city: "Akron, OH",
     address: "214 W Bowery St, Akron, OH 44308",
     url: "https://rqicommunity.heart.org/lighthouse-akron",
-    lat: 33.6299,
-    lng: -112.3815
+    lat: 41.079128,
+    lng: -81.525078
   },
   {
     name: "English Oaks Convalescent & Rehabilitation Hospital",
