@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Skilled Nursing Certified Hospital Locations Map</title>
+  <title>Lighthouse Hospital Locations Map</title>
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
@@ -68,8 +68,8 @@
 
   <div class="map-container">
     <div class="map-header">
-      <h2>Hospital Locations</h2>
-      <p>Explore hospital locations across the U.S. — click markers or search below.</p>
+      <h2>Lighthouse Hospital Locations</h2>
+      <p>Explore Lighthouse Hospital Locations across the U.S. — click markers or search below.</p>
     </div>
 
     <!-- Visible search bar above the map -->
