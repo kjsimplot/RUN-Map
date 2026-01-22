@@ -103,28 +103,28 @@ const hospitals = [
     lng: -81.525078
   },
   {
-    name: "English Oaks Convalescent & Rehabilitation Hospital",
-    city: "Modesto, CA",
-    address: "2633 W Rumble Road, Modesto, CA 95350",
-    url: "https://lifegen.net/locations/english-oaks-convalescent-rehabilitation-hospital/",
-    lat: 37.6212,
-    lng: -121.0266
+    name: "AnMed Health",
+    city: "Anderson, SC",
+    address: "800 N Fant St, Anderson, SC 29621",
+    url: "https://rqicommunity.heart.org/lighthouse-anmed",
+    lat: 34.511768,
+    lng: -82.646873
   },
   {
-    name: "Tampico Terrace Healthcare Center",
-    city: "Walnut Creek, CA",
-    address: "130 Tampico, Walnut Creek, CA 94598",
-    url: "https://tampico-terrace-care-center7.webnode.page/",
-    lat: 37.9237,
-    lng: -122.0711
+    name: "Baptist Health South Florida",
+    city: "Coral Gables, FL",
+    address: "5000 University Dr, Coral Gables, FL 33146",
+    url: "https://rqicommunity.heart.org/lighthouse-baptist",
+    lat: 25.724489,
+    lng: -80.273628
   },
   {
-    name: "Pleasanton Nursing & Rehabilitation Center",
-    city: "Pleasanton, CA",
-    address: "300 Neal Street, Pleasanton, CA 94566",
-    url: "https://lifegen.net/locations/pleasanton-nursing-rehabilitation-center/",
-    lat: 37.6587,
-    lng: -121.8731
+    name: "CHOC at Mission Hospital",
+    city: "Mission Viejo, CA",
+    address: "27700 Medical Center Rd 5th floor, Mission Viejo, CA 92691",
+    url: "https://rqicommunity.heart.org/lighthouse-CHOC",
+    lat: 33.561119,
+    lng: -117.665451
   },
   {
     name: "Kimberly Hall South",
