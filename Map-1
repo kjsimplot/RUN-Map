@@ -183,12 +183,12 @@ const hospitals = [
     lng: -117.7094042
   },
   {
-    name: "Springbrook Center",
-    city: "Westbrook, ME",
-    address: "300 Spring Street, Westbrook, ME 04092",
-    url: "https://www.genesishcc.com/springbrookme",
-    lat: 43.6854,
-    lng: -70.3706
+    name: "Trinity Health",
+    city: "Grand Rapids, MI",
+    address: "200 Jefferson Ave SE, Grand Rapids, MI 49503",
+    url: "https://rqicommunity.heart.org/lighthouse-trinityhealth",
+    lat: 42.9600357,
+    lng: -85.663661
   },
   {
     name: "Collingswood Rehabilitation & Healthcare Center",
