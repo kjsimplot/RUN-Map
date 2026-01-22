@@ -143,44 +143,44 @@ const hospitals = [
     lng: -112.33086
   },
   {
-    name: "Riverside Health & Rehabilitation Center",
-    city: "East Hartford, CT",
-    address: "745 Main Street, East Hartford, CT 06108",
-    url: "https://riverrehab.com/",
-    lat: 41.7742,
-    lng: -72.6379
+    name: "Fulton County Medical Center",
+    city: "McConnellsburg, PA",
+    address: "214 Peach Orchard Rd, Mcconnellsburg, PA 17233",
+    url: "https://rqicommunity.heart.org/lighthouse-fulton",
+    lat: 39.9371333,
+    lng: -78.0070351
   },
   {
-    name: "West Gables Rehabilitation Center",
-    city: "Miami, FL",
-    address: "2525 SW 75th Ave, Miami, FL 33155",
-    url: "https://www.westgablesrehabhospital.com/",
-    lat: 25.7465,
-    lng: -80.3176
+    name: "Greater Baltimore Medical Center",
+    city: "Towson, MD",
+    address: "6701 N Charles St, Towson, MD 21204",
+    url: "https://rqicommunity.heart.org/lighthouse-gbmc",
+    lat: 39.394314,
+    lng: -76.627826
   },
   {
-    name: "Skyline Transitional Care Center",
-    city: "Boise, ID",
-    address: "1001 S Hilton Street, Boise, ID 83705",
-    url: "https://skylinetransitional.com/",
-    lat: 43.5974,
-    lng: -116.2269
+    name: "Intermountain Healthcare",
+    city: "Salt Lake City, UT",
+    address: "36 S State St fl 22, Salt Lake City, UT 84103",
+    url: "https://rqicommunity.heart.org/lighthouse-intermountain",
+    lat: 40.770551,
+    lng: -111.888226
   },
   {
-    name: "Ascension Living Saint Benedict Village",
-    city: "Niles, IL",
-    address: "6930 West Touhy Avenue, Niles, IL 60714",
-    url: "https://citadelhealthcare.com/saint-benedict",
-    lat: 42.0108,
-    lng: -87.8056
+    name: "Mary Greeley Medical Center",
+    city: "Ames, IA",
+    address: "1111 Duff Ave, Ames, IA 50010",
+    url: "https://rqicommunity.heart.org/lighthouse-marygreeley",
+    lat: 42.0326163,
+    lng: -93.6122883
   },
   {
-    name: "Hancock County Health System",
-    city: "Britt, IA",
-    address: "532 1st Street NW, Britt, IA 50423",
-    url: "https://www.mercyonenorthiowaaffiliates.org/hchs",
-    lat: 43.0976,
-    lng: -93.8002
+    name: "Memorial Care Saddleback Medical Center",
+    city: "Laguna Hills, CA",
+    address: "24451 Health Center Dr, Laguna Hills, CA 92653",
+    url: "https://rqicommunity.heart.org/lighthouse-memorialcare",
+    lat: 33.6086341,
+    lng: -117.7094042
   },
   {
     name: "Springbrook Center",
