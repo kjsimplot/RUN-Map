@@ -127,20 +127,20 @@ const hospitals = [
     lng: -117.665451
   },
   {
-    name: "Kimberly Hall South",
-    city: "Windsor, CT",
-    address: "1 Emerson Drive, Windsor, CT 06095",
-    url: "https://completecarekhs.com/",
-    lat: 41.8636,
-    lng: -72.6742
+    name: "Conway Regional Health System",
+    city: "Conway, AR",
+    address: "2302 College Ave, Conway, AR 72034",
+    url: "https://rqicommunity.heart.org/lighthouse-conway",
+    lat: 35.085861,
+    lng: -92.457176
   },
   {
-    name: "Mansfield Center for Nursing & Rehabilitation",
-    city: "Storrs, CT",
-    address: "100 Warren Circle, Storrs, CT 06268",
-    url: "https://mcnr.org/",
-    lat: 41.8086,
-    lng: -72.2595
+    name: "Dignity Health Yavapai Regional Medical Center",
+    city: "Prescott, AZ",
+    address: "7700 Florentine Rd Bldg B Suite 101, Prescott Valley, AZ 86314",
+    url: "https://rqicommunity.heart.org/lighthouse-dignityhealth",
+    lat: 34.588277,
+    lng: -112.33086
   },
   {
     name: "Riverside Health & Rehabilitation Center",
