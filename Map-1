@@ -95,10 +95,10 @@
       // Hospital data
 const hospitals = [
   {
-    name: "Sante of Surprise Rehab",
-    city: "Surprise, AZ",
-    address: "14775 W Yorkshire Drive, Surprise, AZ 85374",
-    url: "https://santecares.com/locations/sante-of-surprise/",
+    name: "Akron Children's Hospital",
+    city: "Akron, OH",
+    address: "214 W Bowery St, Akron, OH 44308",
+    url: "https://rqicommunity.heart.org/lighthouse-akron",
     lat: 33.6299,
     lng: -112.3815
   },
