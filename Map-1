@@ -191,20 +191,20 @@ const hospitals = [
     lng: -85.663661
   },
   {
-    name: "Collingswood Rehabilitation & Healthcare Center",
-    city: "Rockville, MD",
-    address: "299 Hurley Avenue, Rockville, MD 20850",
-    url: "https://collingswoodrehab.com/",
-    lat: 39.0916,
-    lng: -77.1407
+    name: "The Ohio State University: Wexner Medical Center",
+    city: "Columbus, OH",
+    address: "410 W 10th Ave, Columbus, OH 43210",
+    url: "https://rqicommunity.heart.org/lighthouse-wexner",
+    lat: 39.993996,
+    lng: -83.0208962
   },
   {
-    name: "Meadow Park Rehabilitation & Healthcare Center",
-    city: "Catonsville, MD",
-    address: "1525 N Rolling Road, Catonsville, MD 21228",
-    url: "https://meadowparkrehabhc.com/",
-    lat: 39.2899,
-    lng: -76.7602
+    name: "Salem Health Hospitals and Clinics",
+    city: "Salem, OR",
+    address: "890 Oak St SE Bldg A, Salem, OR 97301",
+    url: "https://rqicommunity.heart.org/lighthouse-salem",
+    lat: 44.9327095,
+    lng: -123.0339917
   },
   {
     name: "Orchard Hill Rehabilitation & Healthcare Center",
